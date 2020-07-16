@@ -4,15 +4,6 @@
 
 매일 공부한 내용을 제대로 숙지하고 정리하는 것을 목표한다.
 
-
-## TOC
-### kafka
-
-1. [카프카 개요](kafka/0_overview.md)
-
-
-
-
 ## Conventions
 
 - 각 카테고리는 directory로 구분하며 directory 명은 소문자로 작성한다.
